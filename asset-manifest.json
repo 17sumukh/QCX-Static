@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.390a230b.css",
-    "main.js": "/static/js/main.e35e4bd7.js",
+    "main.css": "/static/css/main.247b03b3.css",
+    "main.js": "/static/js/main.34c0fb22.js",
     "static/js/453.14e57fae.chunk.js": "/static/js/453.14e57fae.chunk.js",
+    "static/media/about-us.png": "/static/media/about-us.adec35608ea7e5ca26fb.png",
+    "static/media/vision-mission.png": "/static/media/vision-mission.ab0d46d0120e53403b84.png",
+    "static/media/Charger-bg.png": "/static/media/Charger-bg.efa67f768276f62a97cd.png",
     "static/media/background.png": "/static/media/background.cb9c0a85efde7c0e5ed7.png",
+    "static/media/connect-bg.png": "/static/media/connect-bg.f06899d55d3cb718ab87.png",
+    "static/media/chargers.jpg": "/static/media/chargers.cb88c95888f49d850273.jpg",
     "index.html": "/index.html",
-    "main.390a230b.css.map": "/static/css/main.390a230b.css.map",
-    "main.e35e4bd7.js.map": "/static/js/main.e35e4bd7.js.map",
+    "main.247b03b3.css.map": "/static/css/main.247b03b3.css.map",
+    "main.34c0fb22.js.map": "/static/js/main.34c0fb22.js.map",
     "453.14e57fae.chunk.js.map": "/static/js/453.14e57fae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.390a230b.css",
-    "static/js/main.e35e4bd7.js"
+    "static/css/main.247b03b3.css",
+    "static/js/main.34c0fb22.js"
   ]
 }
